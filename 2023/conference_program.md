@@ -4,7 +4,7 @@
 <meta property="og:image" content="https://raw.githubusercontent.com/michaelpetersubc/cetc/master/2020/CETC.png" />
 
 
-# Canadian Economic Theory Conference - May 5,7, Simon Fraser University  
+# Simon Fraser University, May 5-7, 2023 
 
 
 
