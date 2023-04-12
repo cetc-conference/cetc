@@ -125,7 +125,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 1. #####  Effective Communication in Cheap-Talk Games 
       [Sidartha Gordon](https://sites.google.com/site/sidarthagordon/) ( Université Paris-Dauphine) , [Navin Kartik](http://www.columbia.edu/~nk2339/) (Columbia University) ,[Melody Lo](https://sites.google.com/view/melodylo/home)* (National Taiwan University), [Wojciech Olszewski](https://sites.northwestern.edu/wol737/home/)(Northwestern University), [Joel Sobel](https://econweb.ucsd.edu/~jsobel/) (UC San Diego)
 
-2. ##### Information Design in Cheap Talk
+2. ##### Information Design in Cheap Talk [[PDF]](https://www.qianjunlyu.com/uploads/1/2/2/7/122704715/red_17.pdf)
       [Qianjun LYU](https://www.qianjunlyu.com)* (University of Bonn), [Wing Suen](https://www4.fbe.hku.hk/~wsuen/) (University of Hong Kong)
 
 #### 3:00 pm – 3:15 pm
