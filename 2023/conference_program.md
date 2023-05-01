@@ -24,9 +24,8 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 ##### Chair: Arthur Robson, SFU
 
 
-1. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
-
-     [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
+1. ##### Dominance and Optimality [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Draft7.pdf)
+      [Xienan Cheng](https://sites.google.com/view/xienan-cheng), [Tilman Borgers](http://www-personal.umich.edu/~tborgers/)*
 
 2. #####  Bayes = Blackwell, Almost [[PDF]](https://whitmeyerhome.files.wordpress.com/2023/03/bayes___blackwell_v18.pdf)
       [Mark Whitmeyer](https://sites.google.com/site/markwhitmeyer/)* (Arizona State University)
@@ -37,7 +36,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### Session B:  10:15 am - 11:15 am 
 ##### Chair: Arthur Robson, SFU
 
-1. #####   Comparative statics with adjustment costs and the le Chatelier principle
+1. #####   Comparative statics with adjustment costs and the le Chatelier principle [[PDF]](https://arxiv.org/pdf/2206.00347.pdf?v=5)
    [Eddie Dekel](https://sites.google.com/site/eddiedekelsite/) (Northwestern University ), [John K.-H. Quah](https://www.johnquah.com/)* (Johns Hopkins University, National University of Singapore),  [Ludvig Sinander](https://www.ludvigsinander.net/) (Oxford & Nuffield College.)
 
 2. #####  How Informed Do You Want Your Principal To Be?
@@ -75,7 +74,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 1. ##### Rational Exuberance and Bubbles
      [Yu Awaya](https://sites.google.com/site/yuawaya/home)* (University of Rochester), [Vijay Krishna](https://sites.google.com/site/vjkrishna/) (Penn State University)
 
-2. #####  Pricing and Perpetual Royalties with Repeated Resale
+2. #####  Pricing and Perpetual Royalties with Repeated Resale [[PDF]](https://matthewmitchelltoronto.weebly.com/uploads/7/9/2/2/79227464/resale2-1.pdf)
       [Matthew Mitchell](https://matthewmitchelltoronto.weebly.com/)* (Rotman School of Management)
 
 #### 4:15 pm – 4:30 pm
@@ -148,7 +147,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
       [S. Nageeb Ali](https://sites.google.com/site/nageeb/) (Pennsylvania State University) , [B. Douglas Bernheim](https://bernheim.people.stanford.edu/) (Stanford University) , [Alexander W. Bloedel](https://sites.google.com/site/alexanderbloedel/home)* (UCLA) , [Silvia Console Battilana](https://www.auctionomics.com/dr-silvia-console-battilana) (Auctionomics)
 
 2. #####  Reputation Effects under Short Memories
-    [Harry PEI](https://sites.northwestern.edu/harrypei/research/)* (Northwestern University) 
+      [Harry PEI](https://sites.northwestern.edu/harrypei/research/)* (Northwestern University) 
 
 #### 4:15 pm – 4:30 pm
 * **Break**
@@ -157,9 +156,10 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 ##### Chair: Li Hao, UBC
 1. ##### On Political Spectra [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Condorcet_original.pdf)
       [Qinggong Wu](http://wqg.weebly.com/)* (Hong Kong University of Science and Technology) , [Xingye Wu](http://wuxy.weebly.com/) (Tsinghua University)
-2. ##### Dominance and Optimality [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Draft7.pdf)
-      [Xienan Cheng](https://sites.google.com/view/xienan-cheng)(University of Michigan), [Tilman Borgers](http://www-personal.umich.edu/~tborgers/)*(University of Michigan)
 
+
+2. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
+     [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
 
 
 #### 6:30 pm 
