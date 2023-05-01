@@ -176,7 +176,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 ##### Chair: Shih En Lu, SFU
 1. ##### Marginal Stochastic Choice [[PDF]]( https://drive.google.com/file/d/1stCQfvL1Bm7CaOcbBrGTIQs7zgsCkhd9/view)
       [Yaron Azrieli](http://web.econ.ohio-state.edu/azrieli/)* (Ohio State University), [John Rehbeck](https://sites.google.com/site/johnrehbeck/) (Ohio State University)
-2. ##### Procedural Expected Utility [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Procedural_EU_0314.pdf)
+2. ##### Procedural Expected Utility [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Procedural_EU_230425.pdf)
       [Mu Zhang](https://www.mu-zhang.com/)* (University of Michigan)
 
 #### 10:00 am – 10:30 am
@@ -187,7 +187,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 1. ##### Non-Fundamental Volatility in Financial Markets [[PDF]](https://keisuketeeple.files.wordpress.com/2022/11/non_fundamental_vol.pdf)
       [Keisuke Teeple](http://keisuketeeple.wordpress.com)* (University of Waterloo)
 
-2. #####  Blackwell Correlated Equilibrium 
+2. #####  Blackwell Correlated Equilibrium [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Blackwell_Correlated_Equilibrium-39.pdf)
       [Tommaso Denti](https://sites.google.com/site/tommasojdenti/home)* (Cornell University) , [Doron Ravid](https://sites.google.com/site/ravidd/) (University of Chicago)      
 
 **Presenter of paper.*
