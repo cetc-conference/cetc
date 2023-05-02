@@ -24,8 +24,8 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 ##### Chair: Arthur Robson, SFU
 
 
-1. ##### Dominance and Optimality [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Draft7.pdf)
-      [Xienan Cheng](https://sites.google.com/view/xienan-cheng), [Tilman Borgers](http://www-personal.umich.edu/~tborgers/)*
+1. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
+     [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
 
 2. #####  Bayes = Blackwell, Almost [[PDF]](https://whitmeyerhome.files.wordpress.com/2023/03/bayes___blackwell_v18.pdf)
       [Mark Whitmeyer](https://sites.google.com/site/markwhitmeyer/)* (Arizona State University)
@@ -152,14 +152,10 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### 4:15 pm – 4:30 pm
 * **Break**
  
-#### Session L: 4:30 pm - 5:30 pm 
+#### Session L: 4:30 pm - 5:00 pm 
 ##### Chair: Li Hao, UBC
 1. ##### On Political Spectra [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Condorcet_original.pdf)
       [Qinggong Wu](http://wqg.weebly.com/)* (Hong Kong University of Science and Technology) , [Xingye Wu](http://wuxy.weebly.com/) (Tsinghua University)
-
-
-2. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
-     [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
 
 
 #### 6:30 pm 
@@ -187,7 +183,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 1. ##### Non-Fundamental Volatility in Financial Markets [[PDF]](https://keisuketeeple.files.wordpress.com/2022/11/non_fundamental_vol.pdf)
       [Keisuke Teeple](http://keisuketeeple.wordpress.com)* (University of Waterloo)
 
-2. #####  Blackwell Correlated Equilibrium [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Blackwell_Correlated_Equilibrium-39.pdf)
+2. #####  Comparing Incomplete Information and Rational Inattention In Games [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Blackwell_Correlated_Equilibrium-39.pdf)
       [Tommaso Denti](https://sites.google.com/site/tommasojdenti/home)* (Cornell University) , [Doron Ravid](https://sites.google.com/site/ravidd/) (University of Chicago)      
 
 **Presenter of paper.*
