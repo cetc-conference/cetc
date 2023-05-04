@@ -24,8 +24,8 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 ##### Chair: Arthur Robson, SFU
 
 
-1. ##### Dominance and Optimality [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Draft7.pdf)
-      [Xienan Cheng](https://sites.google.com/view/xienan-cheng), [Tilman Borgers](http://www-personal.umich.edu/~tborgers/)*
+1. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
+     [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
 
 2. #####  Bayes = Blackwell, Almost [[PDF]](https://whitmeyerhome.files.wordpress.com/2023/03/bayes___blackwell_v18.pdf)
       [Mark Whitmeyer](https://sites.google.com/site/markwhitmeyer/)* (Arizona State University)
@@ -152,14 +152,10 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 #### 4:15 pm – 4:30 pm
 * **Break**
  
-#### Session L: 4:30 pm - 5:30 pm 
+#### Session L: 4:30 pm - 5:00 pm 
 ##### Chair: Li Hao, UBC
 1. ##### On Political Spectra [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Condorcet_original.pdf)
       [Qinggong Wu](http://wqg.weebly.com/)* (Hong Kong University of Science and Technology) , [Xingye Wu](http://wuxy.weebly.com/) (Tsinghua University)
-
-
-2. ##### Strategic Evidence Disclosure in Networks and Equilibrium Discrimination [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4305083)
-     [Leonie Baumann](https://sites.google.com/site/leoniebaumann/home) (McGill University), [Rohan Dutta](https://sites.google.com/site/rohandutta/)* (McGill University)
 
 
 #### 6:30 pm 
