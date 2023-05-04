@@ -118,7 +118,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Break**
 
 #### Session I:  11:30 am - 12:30 pm 
-##### Chair: Farinha Luz, UBC
+##### Chair: Vitor Farinha Luz, UBC
 
 1. ##### Rational Inattention and Endogenous Volatility in Games: A Large Deviation Approach
      [Tetsuya Hoshino](https://www.tetsuyahoshino.com)* (ITAM), [Takashi Ui](https://sites.google.com/site/takashiui/) ( Kanagawa University)
@@ -130,7 +130,7 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
 * **Lunch**
 
 #### Session J: 2:00 pm - 3:00 pm 
-##### Chair: Farinha Luz, UBC
+##### Chair: Vitor Farinha Luz, UBC
 
 1. #####  Effective Communication in Cheap-Talk Games 
       [Sidartha Gordon](https://sites.google.com/site/sidarthagordon/) ( Université Paris-Dauphine) , [Navin Kartik](http://www.columbia.edu/~nk2339/) (Columbia University) ,[Melody Lo](https://sites.google.com/view/melodylo/home)* (National Taiwan University), [Wojciech Olszewski](https://sites.northwestern.edu/wol737/home/)(Northwestern University), [Joel Sobel](https://econweb.ucsd.edu/~jsobel/) (UC San Diego)
@@ -154,8 +154,8 @@ This is the official program for the 2023 Canadian Economic Theory Conference, o
  
 #### Session L: 4:30 pm - 5:00 pm 
 ##### Chair: Li Hao, UBC
-1. ##### On Political Spectra [[PDF]](https://github.com/BabakSahragard/CETCprogram/blob/main/Condorcet_original.pdf)
-      [Qinggong Wu](http://wqg.weebly.com/)* (Hong Kong University of Science and Technology) , [Xingye Wu](http://wuxy.weebly.com/) (Tsinghua University)
+1. ##### Assymetric information and the Liquidity Role of Assets [[PDF]](https://herrenbrueck.weebly.com/uploads/1/3/3/9/13395560/ghz-2022-asymmetric.pdf)
+     [Athanasios Geromichalos](https://economics.ucdavis.edu/people/athanasios-geromichalos) (UC Davis), [Lucas Herrenbrueck](https://herrenbrueck.weebly.com)*(Simon Fraser University), [Zijian Wang](https://www.wlu.ca/academics/faculties/lazaridis-school-of-business-and-economics/faculty-profiles/zijian-wang/)(Wilfrid Laurier University)
 
 
 #### 6:30 pm 
